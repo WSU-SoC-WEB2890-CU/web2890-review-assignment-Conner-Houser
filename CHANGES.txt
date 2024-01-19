@@ -1,1 +1,21 @@
 TODO: List here all the changes you made to given template to adapt it to your needs
+
+1. For all the the "Learn More" buttons, I changed to the arrow to be black when hovered to keep a more cohesive color scheme of Greens, Black, and white
+
+2. I changed the Accordion-padding-y to 3rem insted of 1.5 to give more space between each part of the website
+
+3. Added additional padding to the companies section to seperate it from the pricing section i added.
+
+4. I changed the font-family for .display-2 intro to Georgia, 'Times New Roman', Times, serif
+
+5. I also changed the font-family for .display-2 description to be Verdana, Geneva, Tahoma, sans-serif
+
+6. Adjusted margin in services tab to add more space
+
+7. Changed .display-3 font to Verdana, Geneva, Tahoma, sans-serif
+
+8. bolded the question for the FAQ
+
+9. I took away the padding on the a tags of the nav to move them closer together
+
+10. lastly i added a small shadow to the learn more buttons using bootstrap shadow-sm
